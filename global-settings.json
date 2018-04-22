@@ -1,0 +1,47 @@
+{
+  "Vedaantees": {
+    "Logging": {
+      "EnableFile": true,
+      "EnableEmail": true,
+      "EnableWindowsEventViewer": true,
+      "EnableSerilogDebugger": true,
+      "LoggingFromEmail": "",
+      "LoggingToEmail": ""
+    },
+    "Emails": {
+      "Server": null,
+      "Port": null,
+      "Domain": null,
+      "Username": null,
+      "Password": null
+    },
+    "DocumentStore": {
+      "Url": "http://localhost:8080",
+      "Username": "",
+      "Password": ""
+    },
+    "SqlStore": {
+      "ConnectionString": "Server=127.0.0.1;Port=5432;Database=postgres;User Id=postgres;Password = A8$bhaysn;",
+      "DisableQueryTracking": false
+    },
+    "GraphStore": {
+      "Url": "http://localhost:7474",
+      "Username": "neo4j",
+      "Password": "A8$bhaysn"
+    },
+    "Bus": {
+      "Endpoint": "amqp://guest:guest@localhost:5672",
+      "Username": "guest",
+      "Password": "guest",
+      "Name": "Test-ServiceBus",
+      "AcceptableCommmandsOrEventsFromNamespacesStartingWith": "Vedaantees.Framework",
+      "IsSendOnly": false,
+      "SharedFilePath": "d:\\dev-environments\\shared-files"
+    },
+    "ModulesFolder": "d:\\dev-environments\\modules",
+    "ScanAssembliesWithNamesStartingWith": [ "Vedaantees", "WorkNotes" ],
+    "AppName": "Testing-Framework-Providers",
+    "EncryptionSalt": "QSF#@$4F3@*&J57",
+    "SingleSignOnServer": "http://localhost:6010"
+  }
+}
