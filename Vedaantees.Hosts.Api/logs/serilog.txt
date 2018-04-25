@@ -1,0 +1,2 @@
+2018-04-25T12:06:52.0876376Z Named property count does not match parameter count: {_appName} - Document Session Factory 1
+2018-04-25T12:06:56.8300635Z Named property count does not match parameter count: {_appName} - Added Master to session

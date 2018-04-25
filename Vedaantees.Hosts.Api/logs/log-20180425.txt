@@ -1,0 +1,22 @@
+2018-04-25 17:33:22.094 +05:30 [Information] "Vedaantees-Api" - Document Session Factory 1
+2018-04-25 17:33:27.304 +05:30 [Information] "Vedaantees-Api" - Added Master to session
+2018-04-25 17:33:29.346 +05:30 [Information] Initializing RabbitMQ connection manager for transport with input queue '"Vedaantees-Api"'
+2018-04-25 17:33:29.899 +05:30 [Information] Checking that the current process has read/write access to directory "d:\dev-environments\shared-files"
+2018-04-25 17:34:59.020 +05:30 [Information] "Vedaantees-Api" - Document Session Factory 1
+2018-04-25 17:35:05.009 +05:30 [Information] "Vedaantees-Api" - Added Master to session
+2018-04-25 17:35:09.318 +05:30 [Information] Initializing RabbitMQ connection manager for transport with input queue '"Vedaantees-Api"'
+2018-04-25 17:35:10.708 +05:30 [Information] Checking that the current process has read/write access to directory "d:\dev-environments\shared-files"
+2018-04-25 17:35:10.730 +05:30 [Information] Starting periodic task "CleanupTrackedErrors" with interval 00:01:00
+2018-04-25 17:35:10.766 +05:30 [Information] Starting bus 1
+2018-04-25 17:35:10.775 +05:30 [Information] Setting number of workers to 2
+2018-04-25 17:35:10.895 +05:30 [Information] Started
+2018-04-25 17:35:11.000 +05:30 [Information] Successfully initialized consumer for "Vedaantees-Api"
+2018-04-25 17:36:52.108 +05:30 [Information] "Vedaantees-Api" - Document Session Factory 1
+2018-04-25 17:36:56.830 +05:30 [Information] "Vedaantees-Api" - Added Master to session
+2018-04-25 17:36:59.425 +05:30 [Information] Initializing RabbitMQ connection manager for transport with input queue '"Vedaantees-Api"'
+2018-04-25 17:37:00.800 +05:30 [Information] Checking that the current process has read/write access to directory "d:\dev-environments\shared-files"
+2018-04-25 17:37:00.821 +05:30 [Information] Starting periodic task "CleanupTrackedErrors" with interval 00:01:00
+2018-04-25 17:37:00.857 +05:30 [Information] Starting bus 1
+2018-04-25 17:37:00.898 +05:30 [Information] Setting number of workers to 2
+2018-04-25 17:37:00.960 +05:30 [Information] Started
+2018-04-25 17:37:01.124 +05:30 [Information] Successfully initialized consumer for "Vedaantees-Api"

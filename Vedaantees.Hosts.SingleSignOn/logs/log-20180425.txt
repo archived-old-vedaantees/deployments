@@ -1,0 +1,62 @@
+2018-04-25 17:30:28.566 +05:30 [Information] "vedaantees-single-sign-on" - Document Session Factory 1
+2018-04-25 17:30:36.712 +05:30 [Information] "vedaantees-single-sign-on" - Added Master to session
+2018-04-25 17:30:42.285 +05:30 [Information] Initializing RabbitMQ connection manager for transport with input queue '"vedaantees-single-sign-on"'
+2018-04-25 17:30:42.609 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.FailedSignInAttemptCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:30:42.609 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.RegisterUserCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:30:42.609 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.RegisterUserFromExternalProviderCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:30:42.610 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.ResetPasswordAndUnlockUserCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:30:42.610 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.SignOutCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:30:42.610 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.SuccessfulSignInCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:30:42.610 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.VerifyUserEmailCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:30:43.151 +05:30 [Information] Checking that the current process has read/write access to directory "d:\dev-environments\shared-files"
+2018-04-25 17:33:21.912 +05:30 [Information] "vedaantees-single-sign-on" - Document Session Factory 1
+2018-04-25 17:33:25.966 +05:30 [Information] "vedaantees-single-sign-on" - Added Master to session
+2018-04-25 17:33:28.580 +05:30 [Information] Initializing RabbitMQ connection manager for transport with input queue '"vedaantees-single-sign-on"'
+2018-04-25 17:33:28.720 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.FailedSignInAttemptCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:33:28.721 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.RegisterUserCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:33:28.721 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.RegisterUserFromExternalProviderCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:33:28.721 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.ResetPasswordAndUnlockUserCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:33:28.721 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.SignOutCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:33:28.721 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.SuccessfulSignInCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:33:28.721 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.VerifyUserEmailCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:33:29.002 +05:30 [Information] Checking that the current process has read/write access to directory "d:\dev-environments\shared-files"
+2018-04-25 17:33:29.018 +05:30 [Information] Starting periodic task "CleanupTrackedErrors" with interval 00:01:00
+2018-04-25 17:33:29.029 +05:30 [Information] Starting bus 1
+2018-04-25 17:33:29.032 +05:30 [Information] Setting number of workers to 2
+2018-04-25 17:33:29.039 +05:30 [Information] Started
+2018-04-25 17:33:29.146 +05:30 [Information] Successfully initialized consumer for "vedaantees-single-sign-on"
+2018-04-25 17:33:29.516 +05:30 [Information] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-04-25 17:34:59.325 +05:30 [Information] "vedaantees-single-sign-on" - Document Session Factory 1
+2018-04-25 17:35:04.572 +05:30 [Information] "vedaantees-single-sign-on" - Added Master to session
+2018-04-25 17:35:09.544 +05:30 [Information] Initializing RabbitMQ connection manager for transport with input queue '"vedaantees-single-sign-on"'
+2018-04-25 17:35:10.016 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.FailedSignInAttemptCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:35:10.017 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.RegisterUserCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:35:10.018 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.RegisterUserFromExternalProviderCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:35:10.018 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.ResetPasswordAndUnlockUserCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:35:10.019 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.SignOutCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:35:10.019 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.SuccessfulSignInCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:35:10.019 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.VerifyUserEmailCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:35:10.846 +05:30 [Information] Checking that the current process has read/write access to directory "d:\dev-environments\shared-files"
+2018-04-25 17:35:10.866 +05:30 [Information] Starting periodic task "CleanupTrackedErrors" with interval 00:01:00
+2018-04-25 17:35:10.884 +05:30 [Information] Starting bus 1
+2018-04-25 17:35:10.889 +05:30 [Information] Setting number of workers to 2
+2018-04-25 17:35:11.117 +05:30 [Information] Started
+2018-04-25 17:35:11.177 +05:30 [Information] Successfully initialized consumer for "vedaantees-single-sign-on"
+2018-04-25 17:35:11.843 +05:30 [Information] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-04-25 17:36:51.354 +05:30 [Information] "vedaantees-single-sign-on" - Document Session Factory 1
+2018-04-25 17:36:55.524 +05:30 [Information] "vedaantees-single-sign-on" - Added Master to session
+2018-04-25 17:36:59.644 +05:30 [Information] Initializing RabbitMQ connection manager for transport with input queue '"vedaantees-single-sign-on"'
+2018-04-25 17:37:00.092 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.FailedSignInAttemptCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:37:00.093 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.RegisterUserCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:37:00.093 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.RegisterUserFromExternalProviderCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:37:00.093 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.ResetPasswordAndUnlockUserCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:37:00.093 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.SignOutCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:37:00.094 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.SuccessfulSignInCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:37:00.094 +05:30 [Information] Mapped "Vedaantees.Hosts.SingleSignOn.Domain.Commands.VerifyUserEmailCommand" -> "vedaantees-single-sign-on"
+2018-04-25 17:37:00.864 +05:30 [Information] Checking that the current process has read/write access to directory "d:\dev-environments\shared-files"
+2018-04-25 17:37:00.933 +05:30 [Information] Starting periodic task "CleanupTrackedErrors" with interval 00:01:00
+2018-04-25 17:37:00.991 +05:30 [Information] Starting bus 1
+2018-04-25 17:37:00.995 +05:30 [Information] Setting number of workers to 2
+2018-04-25 17:37:01.079 +05:30 [Information] Started
+2018-04-25 17:37:01.244 +05:30 [Information] Successfully initialized consumer for "vedaantees-single-sign-on"
+2018-04-25 17:37:01.888 +05:30 [Information] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.

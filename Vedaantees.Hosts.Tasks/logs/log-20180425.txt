@@ -1,0 +1,39 @@
+2018-04-25 17:30:27.706 +05:30 [Information] "Vedaantees-Tasks" - Document Session Factory 1
+2018-04-25 17:30:36.494 +05:30 [Information] "Vedaantees-Tasks" - Added Master to session
+2018-04-25 17:30:42.272 +05:30 [Information] Initializing RabbitMQ connection manager for transport with input queue '"Vedaantees-Tasks"'
+2018-04-25 17:30:43.149 +05:30 [Information] Checking that the current process has read/write access to directory "d:\dev-environments\shared-files"
+2018-04-25 17:30:43.173 +05:30 [Information] Starting periodic task "CleanupTrackedErrors" with interval 00:01:00
+2018-04-25 17:30:43.213 +05:30 [Information] Starting bus 1
+2018-04-25 17:30:43.226 +05:30 [Information] Setting number of workers to 2
+2018-04-25 17:30:43.240 +05:30 [Information] Started
+2018-04-25 17:30:43.337 +05:30 [Information] Successfully initialized consumer for "Vedaantees-Tasks"
+2018-04-25 17:30:43.928 +05:30 [Information] "Vedaantees-Tasks" - Document Session Factory 2
+2018-04-25 17:30:45.120 +05:30 [Information] "Vedaantees-Tasks" - Added Emails to session
+2018-04-25 17:33:21.254 +05:30 [Information] "Vedaantees-Tasks" - Document Session Factory 1
+2018-04-25 17:33:26.171 +05:30 [Information] "Vedaantees-Tasks" - Added Master to session
+2018-04-25 17:33:29.292 +05:30 [Information] Initializing RabbitMQ connection manager for transport with input queue '"Vedaantees-Tasks"'
+2018-04-25 17:33:29.897 +05:30 [Information] Checking that the current process has read/write access to directory "d:\dev-environments\shared-files"
+2018-04-25 17:33:29.923 +05:30 [Information] Starting periodic task "CleanupTrackedErrors" with interval 00:01:00
+2018-04-25 17:33:29.938 +05:30 [Information] Starting bus 1
+2018-04-25 17:33:29.941 +05:30 [Information] Setting number of workers to 2
+2018-04-25 17:33:29.954 +05:30 [Information] Started
+2018-04-25 17:33:30.079 +05:30 [Information] Successfully initialized consumer for "Vedaantees-Tasks"
+2018-04-25 17:33:30.409 +05:30 [Information] "Vedaantees-Tasks" - Document Session Factory 2
+2018-04-25 17:33:30.428 +05:30 [Information] "Vedaantees-Tasks" - Added Emails to session
+2018-04-25 17:34:58.888 +05:30 [Information] "Vedaantees-Tasks" - Document Session Factory 1
+2018-04-25 17:35:05.036 +05:30 [Information] "Vedaantees-Tasks" - Added Master to session
+2018-04-25 17:35:09.345 +05:30 [Information] Initializing RabbitMQ connection manager for transport with input queue '"Vedaantees-Tasks"'
+2018-04-25 17:35:10.801 +05:30 [Information] Checking that the current process has read/write access to directory "d:\dev-environments\shared-files"
+2018-04-25 17:36:51.356 +05:30 [Information] "Vedaantees-Tasks" - Document Session Factory 1
+2018-04-25 17:36:56.055 +05:30 [Information] "Vedaantees-Tasks" - Added Master to session
+2018-04-25 17:37:00.037 +05:30 [Information] Initializing RabbitMQ connection manager for transport with input queue '"Vedaantees-Tasks"'
+2018-04-25 17:37:01.351 +05:30 [Information] Checking that the current process has read/write access to directory "d:\dev-environments\shared-files"
+2018-04-25 17:37:01.368 +05:30 [Information] Starting periodic task "CleanupTrackedErrors" with interval 00:01:00
+2018-04-25 17:37:01.387 +05:30 [Information] Starting bus 1
+2018-04-25 17:37:01.391 +05:30 [Information] Setting number of workers to 2
+2018-04-25 17:37:01.408 +05:30 [Information] Started
+2018-04-25 17:37:01.533 +05:30 [Information] Successfully initialized consumer for "Vedaantees-Tasks"
+2018-04-25 17:37:01.961 +05:30 [Information] "Vedaantees-Tasks" - Document Session Factory 2
+2018-04-25 17:37:01.975 +05:30 [Information] "Vedaantees-Tasks" - Added Emails to session
+2018-04-25 17:38:01.724 +05:30 [Information] "Vedaantees-Tasks" - Document Session Factory 3
+2018-04-25 17:38:01.741 +05:30 [Information] "Vedaantees-Tasks" - Added Emails to session
