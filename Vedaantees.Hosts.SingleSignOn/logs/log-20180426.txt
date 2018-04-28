@@ -1,0 +1,8 @@
+2018-04-26 12:52:43.196 +05:30 [Information] "vedaantees-single-sign-on" - Document Session Factory 1
+2018-04-26 12:52:47.660 +05:30 [Information] "vedaantees-single-sign-on" - Added Master to session
+2018-04-26 15:21:16.764 +05:30 [Information] "vedaantees-single-sign-on" - Document Session Factory 1
+2018-04-26 15:21:20.691 +05:30 [Information] "vedaantees-single-sign-on" - Added Master to session
+2018-04-26 15:23:15.780 +05:30 [Information] "vedaantees-single-sign-on" - Document Session Factory 1
+2018-04-26 15:23:19.688 +05:30 [Information] "vedaantees-single-sign-on" - Added Master to session
+2018-04-26 15:37:29.026 +05:30 [Information] "vedaantees-single-sign-on" - Document Session Factory 1
+2018-04-26 15:37:32.564 +05:30 [Information] "vedaantees-single-sign-on" - Added Master to session

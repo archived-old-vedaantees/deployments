@@ -1,0 +1,8 @@
+2018-04-26 12:52:42.641 +05:30 [Information] "Vedaantees-Tasks" - Document Session Factory 1
+2018-04-26 12:52:47.528 +05:30 [Information] "Vedaantees-Tasks" - Added Master to session
+2018-04-26 15:21:16.029 +05:30 [Information] "Vedaantees-Tasks" - Document Session Factory 1
+2018-04-26 15:21:20.854 +05:30 [Information] "Vedaantees-Tasks" - Added Master to session
+2018-04-26 15:23:15.728 +05:30 [Information] "Vedaantees-Tasks" - Document Session Factory 1
+2018-04-26 15:23:20.067 +05:30 [Information] "Vedaantees-Tasks" - Added Master to session
+2018-04-26 15:37:29.098 +05:30 [Information] "Vedaantees-Tasks" - Document Session Factory 1
+2018-04-26 15:37:33.049 +05:30 [Information] "Vedaantees-Tasks" - Added Master to session

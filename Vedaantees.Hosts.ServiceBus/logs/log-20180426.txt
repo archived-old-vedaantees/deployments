@@ -1,0 +1,8 @@
+2018-04-26 12:52:40.578 +05:30 [Information] "Vedaantees-ServiceBus" - Document Session Factory 1
+2018-04-26 12:52:47.245 +05:30 [Information] "Vedaantees-ServiceBus" - Added Master to session
+2018-04-26 15:21:14.135 +05:30 [Information] "Vedaantees-ServiceBus" - Document Session Factory 1
+2018-04-26 15:21:18.828 +05:30 [Information] "Vedaantees-ServiceBus" - Added Master to session
+2018-04-26 15:23:13.890 +05:30 [Information] "Vedaantees-ServiceBus" - Document Session Factory 1
+2018-04-26 15:23:18.338 +05:30 [Information] "Vedaantees-ServiceBus" - Added Master to session
+2018-04-26 15:37:27.528 +05:30 [Information] "Vedaantees-ServiceBus" - Document Session Factory 1
+2018-04-26 15:37:30.937 +05:30 [Information] "Vedaantees-ServiceBus" - Added Master to session

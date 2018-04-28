@@ -1,6 +1,2 @@
-2018-04-25T12:06:51.3391238Z Named property count does not match parameter count: {_appName} - Document Session Factory 1
-2018-04-25T12:06:56.0557110Z Named property count does not match parameter count: {_appName} - Added Master to session
-2018-04-25T12:07:01.9609332Z Named property count does not match parameter count: {_appName} - Document Session Factory 2
-2018-04-25T12:07:01.9752611Z Named property count does not match parameter count: {_appName} - Added Emails to session
-2018-04-25T12:08:01.7239642Z Named property count does not match parameter count: {_appName} - Document Session Factory 3
-2018-04-25T12:08:01.7404206Z Named property count does not match parameter count: {_appName} - Added Emails to session
+2018-04-28T01:21:13.1343223Z Named property count does not match parameter count: {_appName} - Document Session Factory 1
+2018-04-28T01:21:18.5844434Z Named property count does not match parameter count: {_appName} - Added Master to session
