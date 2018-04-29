@@ -36,3 +36,8 @@
 2018-04-28 07:16:52.415 +05:30 [Information] "vedaantees-single-sign-on" - Added Master to session
 2018-04-28 07:21:57.865 +05:30 [Information] "vedaantees-single-sign-on" - Document Session Factory 1
 2018-04-28 07:22:07.222 +05:30 [Information] "vedaantees-single-sign-on" - Document Session Factory 1
+2018-04-28 23:01:24.123 +05:30 [Information] "vedaantees-single-sign-on" - Document Session Factory 1
+2018-04-28 23:01:27.859 +05:30 [Information] "vedaantees-single-sign-on" - Added Master to session
+2018-04-28 23:01:38.953 +05:30 [Information] "vedaantees-single-sign-on" - Document Session Factory 1
+2018-04-28 23:01:43.668 +05:30 [Information] "vedaantees-single-sign-on" - Added Master to session
+2018-04-28 23:03:32.101 +05:30 [Information] "vedaantees-single-sign-on" - Document Session Factory 1

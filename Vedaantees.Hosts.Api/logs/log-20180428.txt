@@ -36,3 +36,7 @@
 2018-04-28 07:16:53.678 +05:30 [Information] "Vedaantees-Api" - Added Master to session
 2018-04-28 07:21:58.243 +05:30 [Information] "Vedaantees-Api" - Document Session Factory 1
 2018-04-28 07:22:07.652 +05:30 [Information] "Vedaantees-Api" - Document Session Factory 1
+2018-04-28 23:01:24.769 +05:30 [Information] "Vedaantees-Api" - Document Session Factory 1
+2018-04-28 23:01:29.047 +05:30 [Information] "Vedaantees-Api" - Added Master to session
+2018-04-28 23:01:39.704 +05:30 [Information] "Vedaantees-Api" - Document Session Factory 1
+2018-04-28 23:03:31.737 +05:30 [Information] "Vedaantees-Api" - Document Session Factory 1
